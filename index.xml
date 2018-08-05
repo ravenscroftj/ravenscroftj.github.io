@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James Ravenscroft (jamesravey)</title>
-    <link>http://ravenscroftj.github.io/</link>
+    <link>https://ravenscroftj.github.io/</link>
     <description>Recent content on James Ravenscroft (jamesravey)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 05 Aug 2018 12:19:22 +0100</lastBuildDate>
     
-	<atom:link href="http://ravenscroftj.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ravenscroftj.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>http://ravenscroftj.github.io/about/</link>
+      <link>https://ravenscroftj.github.io/about/</link>
       <pubDate>Sun, 05 Aug 2018 12:19:22 +0100</pubDate>
       
-      <guid>http://ravenscroftj.github.io/about/</guid>
+      <guid>https://ravenscroftj.github.io/about/</guid>
       <description>Work I&amp;rsquo;m CTO at Filament AI, a Machine Learning and Artificial Intelligence consultancy company with offices in London, Southampton and Toronto. At Filament I oversee our technology roadmap and R&amp;amp;D activities, 3-4 days a week. I spend about 25% of my time at Filament meeting new people who have interesting and exciting problems to solve with AI. I spend another 25% of my time there working on education around machine learning, trying to dispell common myths and come up with relatable metaphors for complex processes.</description>
     </item>
     
