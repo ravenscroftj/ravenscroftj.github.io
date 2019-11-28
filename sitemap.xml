@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jamesravey.me/</loc>
+    <lastmod>2018-08-05T12:51:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jamesravey.me/projects/</loc>
     <lastmod>2018-08-05T12:51:09+01:00</lastmod>
   </url>
@@ -24,12 +30,6 @@
   
   <url>
     <loc>https://jamesravey.me/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jamesravey.me/</loc>
-    <lastmod>2018-08-05T12:51:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
