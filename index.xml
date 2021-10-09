@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James Ravenscroft (jamesravey)</title>
     <link>https://jamesravey.me/</link>
     <description>Recent content on James Ravenscroft (jamesravey)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 05 Aug 2018 12:51:09 +0100</lastBuildDate>
-    
-	<atom:link href="https://jamesravey.me/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="https://jamesravey.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects and Software</title>
       <link>https://jamesravey.me/projects/</link>
@@ -38,7 +33,7 @@ Getting Started with AI and ML I wrote some articles about the machine learning 
       <pubDate>Sun, 05 Aug 2018 12:50:55 +0100</pubDate>
       
       <guid>https://jamesravey.me/publications/</guid>
-      <description>Academic Publications 2019  Steffens A,, Campello A., Ravenscroft J., Clark A., Hagras H. Deep Segmentation: using Deep Convolutional Networks for Coral Reef pixel-wise Parsing technical notes  2018  Ravenscroft, J., Clare, A., &amp;amp; Liakata, M. HarriGT: Linking news articles to scientific literature.  2017  2017 Ravenscroft, J., Clare, A., Duma, D., Liakata, M. Measuring scientific impact beyond academia: An assessment of existing impact metrics and proposed improvements  2016  Ravenscroft, J.</description>
+      <description>Academic Publications 2021  Ravenscroft J., Cattan A., Clare A., Dagan I., Liakata M. CD2CR: Co-reference Resolution Across Documents and Domains  2019  Steffens A,, Campello A., Ravenscroft J., Clark A., Hagras H. Deep Segmentation: using Deep Convolutional Networks for Coral Reef pixel-wise Parsing technical notes  2018  Ravenscroft, J., Clare, A., &amp;amp; Liakata, M. HarriGT: Linking news articles to scientific literature.  2017  Ravenscroft, J., Clare, A.</description>
     </item>
     
     <item>
@@ -47,7 +42,7 @@ Getting Started with AI and ML I wrote some articles about the machine learning 
       <pubDate>Sun, 05 Aug 2018 12:19:22 +0100</pubDate>
       
       <guid>https://jamesravey.me/about/</guid>
-      <description>Summary I&amp;rsquo;m James, I&amp;rsquo;m an AI Geek with lots of interests and lots of jobs. I&amp;rsquo;ve been in the software industry professionally for 8 years (10 if you count the time I spent freelancing at University). I spent a lot of time working for IBM, originally in transaction processing and enterprise application servers. Then I moved to IBM Watson Ecosystem where I was the main solutions architect serving Europe, Middle East and Africa for around 12 months.</description>
+      <description>Summary I&amp;rsquo;ve been in the software industry professionally for 10 years. I spent a lot of time working for IBM, originally in transaction processing and enterprise application servers. Then I moved to IBM Watson Ecosystem where I was the main solutions architect serving Europe, Middle East and Africa for around 12 months. I&amp;rsquo;m now the CTO at Filament and a part time PHD student. My exposure to both academia and practical software engineering has given me a unique perspective onto how cutting edge AI and ML techniques could be commercialised and applied to real problems.</description>
     </item>
     
   </channel>
