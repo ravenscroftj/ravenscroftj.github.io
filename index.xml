@@ -1,49 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>James Ravenscroft (jamesravey)</title>
-    <link>https://jamesravey.me/</link>
-    <description>Recent content on James Ravenscroft (jamesravey)</description>
+    <title>Introduction</title>
+    <link>http://jamesravey.me/</link>
+    <description>Recent content on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://jamesravey.me/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects and Software</title>
-      <link>https://jamesravey.me/projects/</link>
-      <pubDate>Sun, 05 Aug 2018 12:51:09 +0100</pubDate>
-      
-      <guid>https://jamesravey.me/projects/</guid>
-      <description>I&amp;rsquo;ve worked on quite a few open and closed source projects - feel free to take a look at my github profile.
-Below are a selection of open source projects that I am most proud of or have been the primary contributer on. I don&amp;rsquo;t have as much time as I&amp;rsquo;d like to maintain these projects but I do when I get chance. Feel free to contact me on twitter if you&amp;rsquo;re interested in helping out with any of the below projects.</description>
-    </item>
-    
-    <item>
-      <title>ML Resources</title>
-      <link>https://jamesravey.me/ml-resources/</link>
-      <pubDate>Sun, 05 Aug 2018 12:51:02 +0100</pubDate>
-      
-      <guid>https://jamesravey.me/ml-resources/</guid>
-      <description>Here are a selection of machine learning, AI and NLP resources you may find helpful.
-Getting Started with AI and ML I wrote some articles about the machine learning development cycle and how you should train and test models back when I worked at IBM.
- Cognitive Quality Assurance - An Introduction Cognitive Quality Assurance pt. 2 - Performance Metrics  Essays and FAQs An assortment of essays and articles on philosophical concepts and frequently-asked-questions around AI concepts:</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://jamesravey.me/publications/</link>
-      <pubDate>Sun, 05 Aug 2018 12:50:55 +0100</pubDate>
-      
-      <guid>https://jamesravey.me/publications/</guid>
-      <description>Academic Publications 2021  Ravenscroft J., Cattan A., Clare A., Dagan I., Liakata M. CD2CR: Co-reference Resolution Across Documents and Domains  2019  Steffens A,, Campello A., Ravenscroft J., Clark A., Hagras H. Deep Segmentation: using Deep Convolutional Networks for Coral Reef pixel-wise Parsing technical notes  2018  Ravenscroft, J., Clare, A., &amp;amp; Liakata, M. HarriGT: Linking news articles to scientific literature.  2017  Ravenscroft, J., Clare, A.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://jamesravey.me/about/</link>
-      <pubDate>Sun, 05 Aug 2018 12:19:22 +0100</pubDate>
-      
-      <guid>https://jamesravey.me/about/</guid>
-      <description>Summary I&amp;rsquo;ve been in the software industry professionally for 10 years. I spent a lot of time working for IBM, originally in transaction processing and enterprise application servers. Then I moved to IBM Watson Ecosystem where I was the main solutions architect serving Europe, Middle East and Africa for around 12 months. I&amp;rsquo;m now the CTO at Filament and a part time PHD student. My exposure to both academia and practical software engineering has given me a unique perspective onto how cutting edge AI and ML techniques could be commercialised and applied to real problems.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://jamesravey.me/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,22 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jamesravey.me/projects/</loc>
-    <lastmod>2018-08-05T12:51:09+01:00</lastmod>
+    <loc>http://jamesravey.me/</loc>
   </url><url>
-    <loc>https://jamesravey.me/ml-resources/</loc>
-    <lastmod>2018-08-05T12:51:02+01:00</lastmod>
+    <loc>http://jamesravey.me/series/</loc>
   </url><url>
-    <loc>https://jamesravey.me/publications/</loc>
-    <lastmod>2018-08-05T12:50:55+01:00</lastmod>
-  </url><url>
-    <loc>https://jamesravey.me/about/</loc>
-    <lastmod>2018-08-05T12:19:22+01:00</lastmod>
-  </url><url>
-    <loc>https://jamesravey.me/categories/</loc>
-  </url><url>
-    <loc>https://jamesravey.me/</loc>
-  </url><url>
-    <loc>https://jamesravey.me/tags/</loc>
+    <loc>http://jamesravey.me/tags/</loc>
   </url>
 </urlset>
