@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on James Ravenscroft (jamesravey)</title>
-    <link>http://jamesravey.me/series/</link>
+    <link>https://jamesravey.me/series/</link>
     <description>Recent content in Series on James Ravenscroft (jamesravey)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://jamesravey.me/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jamesravey.me/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

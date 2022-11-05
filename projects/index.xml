@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on James Ravenscroft (jamesravey)</title>
-    <link>http://jamesravey.me/projects/</link>
+    <link>https://jamesravey.me/projects/</link>
     <description>Recent content in Projects on James Ravenscroft (jamesravey)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://jamesravey.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jamesravey.me/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CD^2CR</title>
-      <link>http://jamesravey.me/projects/cd2cr/</link>
+      <link>https://jamesravey.me/projects/cd2cr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jamesravey.me/projects/cd2cr/</guid>
+      <guid>https://jamesravey.me/projects/cd2cr/</guid>
       <description>Photo by Volodymyr Hryshchenko on Unsplash
 Project Summary As part of my PHD work I spent some time looking at ways to automatically link between news articles and scientific papers that they mention. One of the difficulties can be that language use changes significantly between the two document types. A news article might say Fossil found of dinosaur killed in asteroid strike and the scientific paper might say The Chicxulub impact played a crucial role in the Cretaceous-Paleogene extinction.</description>
     </item>
     
     <item>
       <title>SAPIENTA</title>
-      <link>http://jamesravey.me/projects/sapienta/</link>
+      <link>https://jamesravey.me/projects/sapienta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jamesravey.me/projects/sapienta/</guid>
+      <guid>https://jamesravey.me/projects/sapienta/</guid>
       <description>Photo by Russ Ward on Unsplash
 Project Summary The SAPIENTA Project originally led by Prof Maria Liakata was first presented in a journal paper in 2012. The system provides automatic annotation of Core Scientific Concepts in papers at sentence level.
 In 2013, I took over maintaining SAPIENTA. I was employed by Prof. Liakata through the University of Warwick to rewrite the core system in Python (the original was PERL-based) and I also added some enhancements including an improved web service, automatic PDF to XML conversion and a web UI.</description>
@@ -29,30 +29,30 @@ In 2013, I took over maintaining SAPIENTA. I was employed by Prof. Liakata throu
     
     <item>
       <title>indiescrobble.club</title>
-      <link>http://jamesravey.me/projects/indiescrobble/</link>
+      <link>https://jamesravey.me/projects/indiescrobble/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jamesravey.me/projects/indiescrobble/</guid>
+      <guid>https://jamesravey.me/projects/indiescrobble/</guid>
       <description>Photo by Alex Litvin on Unsplash
 Project Summary Since December 2021 I&amp;rsquo;ve been very interested in the Indieweb movement and technologies. I watch a lot of TV and movies and listen to a lot of music and I wanted a way to be able to keep a diary of these things through my blog. So I built IndieScrobble - a system that allows you to log what you watched/listened to, how you rated it and give a little commentary and post this back to your website via micropub.</description>
     </item>
     
     <item>
       <title>HarriGT</title>
-      <link>http://jamesravey.me/projects/harrigt/</link>
+      <link>https://jamesravey.me/projects/harrigt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jamesravey.me/projects/harrigt/</guid>
+      <guid>https://jamesravey.me/projects/harrigt/</guid>
       <description>Photo by AbsolutVision on Unsplash
 Project Summary I&amp;rsquo;ve spent a lot of time trying to understand links between news articles and scientific papers as part of my PhD work. I built HarriGT as a way to semi-automatically find news articles that discuss scientific papers. The tool uses named entity recognition to identify potential names of academics and universities and then searches the Microsoft Academic Knowledge Graph, Springer API and CrossRef for publications that might match.</description>
     </item>
     
     <item>
       <title>Partridge</title>
-      <link>http://jamesravey.me/projects/partridge/</link>
+      <link>https://jamesravey.me/projects/partridge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jamesravey.me/projects/partridge/</guid>
+      <guid>https://jamesravey.me/projects/partridge/</guid>
       <description>Photo by Iñaki del Olmo on Unsplash
 Project Summary Partridge was my first foray into text processing pipelines, starting as a final year undergraduate project back in 2012. The idea was to index scientific papers and make them easily to search by annotating each sentence with tags showing which core scientific concept1 the sentence corresponds to.
 This makes it easy to carry out very targetted and specific literature searches. For example &amp;ldquo;Find biology papers where CRISPR is mentioned in a &amp;lsquo;Method&amp;rsquo; sentence&amp;rdquo;.</description>
