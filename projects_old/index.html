@@ -13,16 +13,16 @@
 <meta name="referrer" content="no-referrer">
 <meta name="description" content="Digital Home Page for James Ravenscroft">
 <title>
-Series - James Ravenscroft (jamesravey)
+Projects and Software - James Ravenscroft (jamesravey)
 </title>
 
-<link href="/series/index.xml" rel="alternate" type="application/rss+xml" title="James Ravenscroft (jamesravey)" />
+
 
         
-        <meta property="og:title" content="Series - James Ravenscroft (jamesravey)" />
+        <meta property="og:title" content="Projects and Software - James Ravenscroft (jamesravey)" />
 <meta property="og:type" content="website" />
 <meta property="og:description" content="Digital Home Page for James Ravenscroft"/>
-<meta property="og:url" content="http://jamesravey.me/series/"/>
+<meta property="og:url" content="http://jamesravey.me/projects_old/"/>
 <meta property="og:site_name" content="James Ravenscroft (jamesravey)"/>
 
 
@@ -57,7 +57,7 @@ Series - James Ravenscroft (jamesravey)
             
             <div class="container hero  fade-in one ">
                 
-                <h1 class="bold-title is-1">Series</h1>
+                <h1 class="bold-title is-1">Projects and Software</h1>
                 
             </div>
             
@@ -140,9 +140,23 @@ Series - James Ravenscroft (jamesravey)
 
 
                 
-    <div class="container">
-        <div class="section tags-list"></div>
+    <div class="container markdown top-pad">
+        <p>I&rsquo;ve worked on quite a few open and closed source projects - feel free to take a look at <a href="github.com/ravenscroftj/">my github profile</a>.</p>
+<p>Below are a selection of open source projects that I am most proud of or have been the primary contributer on. I don&rsquo;t have as much time as I&rsquo;d like to maintain these projects but I do when I get chance. Feel free to contact me on <a href="https://twitter.com/jamesravey">twitter</a> if you&rsquo;re interested in helping out with any of the below projects.</p>
+
+<h2 id="harrigt" class="anchor-link"><a href="#harrigt">HarriGT</a></h2>
+<p>I recently built an <a href="https://harrigt.xyz">annotation tool</a> for building a large dataset of newspaper articles that discuss scientific work. Newspaper journalists often decline to cite scientific work that they discuss in their articles but usually mention the name of the author or academic institute in passing. The aim of this tool is to build a corpus that could be used to formalise links between news and science in order to improve transparency and reporting quality.</p>
+
+<h2 id="partridge" class="anchor-link"><a href="#partridge">Partridge</a></h2>
+<p>I built a scientific paper indexing system called <a href="http://papro.org.uk/">Partridge</a> which classifies paper by type (e.g. Review Paper, Research Paper, Discussion/Opinion Paper, Case Study and so on) and also makes papers searchable by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3315721/">core scientific concept</a>. Core Scientific Concepts (CoreSCs) allow us to label the semantic intent behind sentences in a scientific paper. For example Hypothesis, Methodology, Results, Conclusion. Using Partridge you can do queries like &ldquo;Show papers where &lsquo;malaria&rsquo; appears in the hypothesis and &lsquo;quinine&rsquo; (a malaria drug) appears in the methodology&rdquo;. I still maintain partridge but I don&rsquo;t have much time to keep it up to date recently.</p>
+
+<h2 id="sapienta" class="anchor-link"><a href="#sapienta">SAPIENTA</a></h2>
+<p><a href="http://www.sapientaproject.com/">SAPIENTA</a> is the underlying classification engine that Partridge uses to label new scientific papers with CoreSCs. My supervisor Maria originally built SAPIENTA with colleagues from Aberystwyth University and the European Biomedical Institute (EBI). In the summer of 2013, I spent about 3 months rewriting SAPIENTA from a series of PERL scripts to a Python web service. We do run a <a href="http://sapienta.papro.org.uk">web service</a> that applies CoreSC labels to PDFs and XML documents but it is a little bit flakey. Contact me if you are interested in using this system.</p>
+
     </div>
+    
+    
+
 
 
                 
