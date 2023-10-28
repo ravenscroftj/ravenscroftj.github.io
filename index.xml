@@ -7,13 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jamesravey.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CD^2CR</title>
-      <link>https://jamesravey.me/projects/cd2cr/</link>
+      <title>Turbopilot</title>
+      <link>https://jamesravey.me/projects/turbopilot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jamesravey.me/projects/cd2cr/</guid>
-      <description>Photo by Volodymyr Hryshchenko on Unsplash
-Project Summary As part of my PHD work I spent some time looking at ways to automatically link between news articles and scientific papers that they mention. One of the difficulties can be that language use changes significantly between the two document types. A news article might say Fossil found of dinosaur killed in asteroid strike and the scientific paper might say The Chicxulub impact played a crucial role in the Cretaceous-Paleogene extinction.</description>
+      <guid>https://jamesravey.me/projects/turbopilot/</guid>
+      <description>Photo by Mitchell Luo on Unsplash
+Project Summary The TurboPilot project was an experimental runtime for getting open source, generative large-language-models to do code-completion on commodity computers without racks full of power-hungry GPUs. It was a learning opportunity for me to familiarise myself with Georgi Gerganov&amp;rsquo;s state-of-the-art llama.cpp quantized model runtime and served as an early proof-of-concept that local code completion is possible.
+This project received a large amount of attention on twitter, reddit and hackernews and gained almost 4k stars on github.</description>
     </item>
     
     <item>
@@ -25,6 +26,16 @@ Project Summary As part of my PHD work I spent some time looking at ways to auto
       <description>Photo by Russ Ward on Unsplash
 Project Summary The SAPIENTA Project originally led by Prof Maria Liakata was first presented in a journal paper in 2012. The system provides automatic annotation of Core Scientific Concepts in papers at sentence level.
 In 2013, I took over maintaining SAPIENTA. I was employed by Prof. Liakata through the University of Warwick to rewrite the core system in Python (the original was PERL-based) and I also added some enhancements including an improved web service, automatic PDF to XML conversion and a web UI.</description>
+    </item>
+    
+    <item>
+      <title>CD^2CR</title>
+      <link>https://jamesravey.me/projects/cd2cr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamesravey.me/projects/cd2cr/</guid>
+      <description>Photo by Volodymyr Hryshchenko on Unsplash
+Project Summary As part of my PHD work I spent some time looking at ways to automatically link between news articles and scientific papers that they mention. One of the difficulties can be that language use changes significantly between the two document types. A news article might say Fossil found of dinosaur killed in asteroid strike and the scientific paper might say The Chicxulub impact played a crucial role in the Cretaceous-Paleogene extinction.</description>
     </item>
     
     <item>
