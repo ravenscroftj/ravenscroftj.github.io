@@ -1,0 +1,2 @@
+alias:: hugo
+public:: true

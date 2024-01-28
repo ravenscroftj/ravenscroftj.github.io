@@ -1,0 +1,3 @@
+- A money management tool like [[ynab]] or [[MoneyHub]].
+- Completely [[foss]] and self-hosted but fiddly and difficult to stay on top of/maintain.
+-

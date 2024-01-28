@@ -1,0 +1,4 @@
+- https://pinot.apache.org/
+-
+- An [[olap]] database system which can integrate pseudo-realtime data via event streams.
+- Used by uber for some stuff.

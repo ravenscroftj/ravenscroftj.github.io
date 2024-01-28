@@ -1,0 +1,2 @@
+## Fresh Starts
+- In her article [The Return to Everyday Life](https://creativefuel.substack.com/p/the-return-to-everyday-life), [[Anna Brones]] writes about "_la rentrée scolaire_," which is french for the return to school. This term carries a sort of general purpose weight to it for adults as well as children and captures the feeling of returning from holiday and moving ahead with ideas and projects that have been percolating during your time off.

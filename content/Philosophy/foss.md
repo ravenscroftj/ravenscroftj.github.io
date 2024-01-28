@@ -1,0 +1,10 @@
+---
+aliases:
+  - open source
+---
+
+
+-
+-
+
+-

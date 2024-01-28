@@ -1,0 +1,4 @@
+- A [[foss]] [[DataAnnotation]] and data curation platform for [[llm]] training
+- [https://argilla.io/](https://argilla.io/)
+- Similar to [[Label Studio]] or [[doccano]]
+-

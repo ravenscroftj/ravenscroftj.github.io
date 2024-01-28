@@ -1,0 +1,1 @@
+- Data collection must be done before [[Data Annotation]] can be carried out. There are quite a lot of people doing some really dodgy stuff with data collection at the moment.
