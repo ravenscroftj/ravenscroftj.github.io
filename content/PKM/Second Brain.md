@@ -1,8 +1,9 @@
 ---
 id: 9y2fi37n8fvcx58wgryb6dl
 title: Second Brain
-updated: 1674627398238
+updated: 
 created: 1674304480744
+modified:
 ---
   
   Second Brain is a marketing term coined by [[Tiago Forte]] for a digital collection of knowledge.
