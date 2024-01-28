@@ -1,0 +1,14 @@
+- UNRAID is a proprietary linux-based operating system that provides simple-to-use software-defined RAID storage management.
+-
+- ## Managing [[Docker]] VDisk/Image Size
+	- https://forums.unraid.net/topic/57181-docker-faq/#comment-565307
+		- **How do I increase the size of my docker.img file?**
+		- Go to settings - Docker Settings.
+		- Set Enable Docker to be "No"
+		- Apply.
+		- Switch to Advanced View (Top Right)
+		- Change the size of the image.
+		- Set Enable Docker to be "yes"
+		- Apply
+		- Done.
+-

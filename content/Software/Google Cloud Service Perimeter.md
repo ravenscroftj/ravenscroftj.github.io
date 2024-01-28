@@ -1,0 +1,17 @@
+- Kind of like firewalls for services in GCP.
+- ## Gotchas
+	- You must define an organisation-wide default access policy before you can start to add specific rules and scopes
+	- ![image.png](../assets/image_1695890553745_0.png)
+	- https://cloud.google.com/access-context-manager/docs/create-access-policy
+	- https://www.googlecloudcommunity.com/gc/Security/Could-not-access-services-with-Access-Context-Manager-VPC/m-p/547740
+	-
+- ## VPC Accessible Services
+	- We can use this to control which of the Google APIs a resource inside the protected area (perimeter) can access. We can use this feature to lock down access from internal systems to Google systems which might be useful if we need to guarantee that an internal resource can't talk to external stuff.
+- ## Ingress Rules
+	- We can restrict external access to resources via ingress rules -
+	- We need to create an access level in the context manager:
+	- ![[assets/Pasted image 20240128174946.png]]
+	- Then we can use ingress rules to allow access from the selected access level
+	- ![[./assets/Pasted image 20240128174959.png]]
+	-
+-

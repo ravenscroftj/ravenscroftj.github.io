@@ -1,0 +1,5 @@
+- The bitter lesson is the idea that manual improvements often don't help all that much in the long run
+-
+- http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+- https://archive.jamesravey.me/archive/1689278714.876608/index.html
+-

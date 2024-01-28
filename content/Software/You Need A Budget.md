@@ -1,0 +1,3 @@
+alias:: ynab, Software/ynab
+
+-

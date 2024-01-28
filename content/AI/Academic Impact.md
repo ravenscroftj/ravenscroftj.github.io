@@ -1,0 +1,7 @@
+- Academic Impact is the impact of scientific works within the academic sphere.
+- Examples could include the creation of a new theory, dataset or model that enables or inspires future work
+- ## Citation Metrics
+	- Citation behaviours and accumulation speeds vary across different fields
+	- [[@The Matthew Effect in Science]]
+	-
+-

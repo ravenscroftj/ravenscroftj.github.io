@@ -1,0 +1,6 @@
+- Linear is a project/workload management app with a similar featureset to Jira.
+-
+- ## Linear GraphQL API
+	- https://studio.apollographql.com/public/Linear-API/variant/current/schema/reference/objects/User?query=comments
+	- https://developers.linear.app/docs/graphql/working-with-the-graphql-api/filtering
+	-
