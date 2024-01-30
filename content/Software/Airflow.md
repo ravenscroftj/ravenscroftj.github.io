@@ -1,4 +1,6 @@
-alias:: Airflow
+---
+updated: 2024-01-30T13:06:00
+---
 
 - Airflow is a data transformation pipeline tool for [[ETL]] and [[ELT]] workflows.
 
