@@ -1,9 +1,7 @@
 ---
 created: 2024-01-30T13:10
-updated: 2024-01-30T13:16
+updated: 2024-01-30T14:47
 ---
-
-
 ## Local Installation
 
 In order to install [[Public/Software/Airflow/index]] locally you can use the following bash script to bootstrap the process.
