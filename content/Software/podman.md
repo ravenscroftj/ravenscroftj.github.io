@@ -1,3 +1,5 @@
+Podman is an Open Container Initiative compatible container runtime that provides functionality similar to [[Docker]] on the desktop. Podman was developed by Red Hat and can 
+
 - https://0to1.nl/post/minikube-m1-pro-issues/
 	- ```shell
 	  brew install podman # install podman itself
