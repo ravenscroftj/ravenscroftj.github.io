@@ -1,8 +1,9 @@
 alias:: Airflow
 
 - Airflow is a data transformation pipeline tool for [[ETL]] and [[ELT]] workflows.
-- ## Local Installation
-- ```shell
+
+ ## Local Installation
+```shell
   # Airflow needs a home. `~/airflow` is the default, but you can put it
   # somewhere else if you prefer (optional)
   export AIRFLOW_HOME=~/airflow
@@ -22,7 +23,7 @@ alias:: Airflow
   # Visit localhost:8080 in the browser and use the admin account details
   # shown on the terminal to login.
   # Enable the example_bash_operator DAG in the home page
-  ```
+```
 ## Config File
 
 There is a file named `airflow.cfg` which contains configuration for your airflow instance including the full path to the DAGs folder and also SQLalchemy connection credentials.
@@ -40,12 +41,12 @@ It's possible to authenticate airflow against your google org using SAML/OpenID 
 - You can use `wait_for_completion=True` and it will detect whether the dag passed or failed.
 - If you have a cleanup function make sure that it marks the upstream task as failed as appropriate. 
   
-  ```python
+```python
   for task_instance in kwargs['dag_run'].get_task_instances():
         if task_instance.current_state() not in [State.SUCCESS, State.SKIPPED] and \
                 task_instance.task_id != kwargs['task_instance'].task_id:
             raise Exception("Task {} failed. Failing this DAG run".format(task_instance.task_id))
-  ```
+```
 ## Mapping Tasks
 
 Dynamic task expansion using the `partial` and `expand` functions has a hard limit which is governed by the environment variable `AIRFLOW__CORE__MAX_MAP_LENGTH` and defaults to 1024.
