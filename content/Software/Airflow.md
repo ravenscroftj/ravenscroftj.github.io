@@ -27,6 +27,18 @@ alias:: Airflow
 ## Config File
 
 There is a file named `airflow.cfg` which contains configuration for your airflow instance including the full path to the DAGs folder and also SQLalchemy connection credentials.
+
+## Postgres Data Storage
+
+Use the `psycopg2-binary` package to provide PostgreSQL db support:
+
+`pip install psycopg2-binary`
+
+And in the config:
+
+`sql_alchemy_conn = postgresql+psycopg2://airflow:airflow@localhost/airflow`
+
+The easiest solution is to use a postgres docker setup.
 ## Google Cloud Compatibility
 
 Install airflow with `google` optional module: `pip install apache-airflow[google]`.
