@@ -1,23 +1,13 @@
 ---
-updated: 2024-01-30T13:11
+updated: 2024-01-30T13:17
 created: 2024-01-29T08:13
+title: Airflow
+aliases:
+  - Airflow
 ---
 
-- Airflow is a data transformation pipeline tool for [[ETL]] and [[ELT]] workflows.
+Airflow is a data transformation pipeline tool for [[ETL]] and [[ELT]] workflows.
 
-
-
-
-## Google Cloud Compatibility
-
-Install airflow with `google` optional module: `pip install apache-airflow[google]`.
-
-Credenials can be side-loaded in via an environment variable
-
-`export AIRFLOW_CONN_GOOGLE_CLOUD_DEFAULT='{"conn_type": "google-cloud-platform", "key_path": "/secrets/key.json", "scope": "https://www.googleapis.com/auth/cloud-platform", "project": "airflow", "num_retries": 5}'`
-#### Google OIDC auth 
-
-It's possible to authenticate airflow against your google org using SAML/OpenID flow: https://airflow.apache.org/docs/apache-airflow-providers-google/stable/api-auth-backend/google-openid.html
 ## Airflow TriggerDAGRunOperator
 - You can use `wait_for_completion=True` and it will detect whether the dag passed or failed.
 - If you have a cleanup function make sure that it marks the upstream task as failed as appropriate. 
@@ -28,6 +18,7 @@ It's possible to authenticate airflow against your google org using SAML/OpenID 
                 task_instance.task_id != kwargs['task_instance'].task_id:
             raise Exception("Task {} failed. Failing this DAG run".format(task_instance.task_id))
 ```
+
 ## Mapping Tasks
 
 Dynamic task expansion using the `partial` and `expand` functions has a hard limit which is governed by the environment variable `AIRFLOW__CORE__MAX_MAP_LENGTH` and defaults to 1024.
@@ -98,9 +89,7 @@ with DAG(
 	- Custom sensors extend the `from airflow.sensors.base.BaseSensorOperator` class and override the `poke` method
 	- Custom sensors can be set up in `reschedule` mode which allows them to terminate the DAG and free up a worker slot to do something else.
 	- As a rule of thumb `reschedule` should be used for long-running processes (Every 15 minutes) and `poke` should be used for processes that need checking frequently (every second)
--
--
--
+
 - ## Resources
 	- [Airflow Sensors](https://airflow.apache.org/docs/apache-airflow/stable/_api/airflow/sensors/base/index.html#airflow.sensors.base.BaseSensorOperator)
 	- [How to create a custom Airflow Sensor](https://archive.jamesravey.me/archive/1688721178.487017/singlefile.html)

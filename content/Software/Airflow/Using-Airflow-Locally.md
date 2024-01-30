@@ -1,12 +1,12 @@
 ---
 created: 2024-01-30T13:10
-updated: 2024-01-30T13:13
+updated: 2024-01-30T13:16
 ---
 
 
 ## Local Installation
 
-In order to install [[Airflow]] locally you can use the following bash script to bootstrap the process.
+In order to install [[Public/Software/Airflow/index]] locally you can use the following bash script to bootstrap the process.
  
 ```shell
   # Airflow needs a home. `~/airflow` is the default, but you can put it
