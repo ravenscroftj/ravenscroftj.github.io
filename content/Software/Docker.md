@@ -1,4 +1,6 @@
-Docker is a containerisation and virtualization tool that became popular in the 2010s as a lightweight alternative to running virtual machines.
+Docker is a containerisation and virtualization tool that became popular in the 2010s as a lightweight alternative to running [[virtual machines]].
+
+
 
 - 
 ## Network Issues
