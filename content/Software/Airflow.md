@@ -30,7 +30,7 @@ There is a file named `airflow.cfg` which contains configuration for your airflo
 
 ## Postgres Data Storage
 
-Use the `psycopg2-binary` package to provide PostgreSQL db support:
+Use the `psycopg2-binary` package to provide [[PostgreSQL]] db support:
 
 `pip install psycopg2-binary`
 

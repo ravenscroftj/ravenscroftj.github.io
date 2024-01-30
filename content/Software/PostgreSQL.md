@@ -1,3 +1,8 @@
+---
+aliases:
+  - postgres
+---
+
 - PostgreSQL is an advanced relational [[Databases|database]] server.
 - ## Minimal Docker with [[adminer]]
 	- ```yaml

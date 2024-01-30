@@ -1,4 +1,4 @@
-## Django and [[postgres]]
+## Django and [[Public/Software/PostgreSQL]]
 - https://docs.djangoproject.com/en/4.2/ref/databases/#postgresql-notes
 - `pdm add "psycopg[binary]"`
 
