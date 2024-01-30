@@ -1,4 +1,6 @@
-- ## Network Issues
+Docker is a containerisation and virtualization tool that became popular in the 2010s thank
+- 
+## Network Issues
 	- Experienced a problem where docker containers are not allowed to access stuff on the `192.168.x.x` subnet.
 	- If this happens, you can empty iptables and restart docker:
 	- ```shell
