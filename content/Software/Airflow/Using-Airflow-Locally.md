@@ -1,6 +1,6 @@
 ---
 created: 2024-01-30T13:10
-updated: 2024-01-30T14:47
+updated: 2024-01-30T15:03
 ---
 ## Local Installation
 
@@ -37,6 +37,10 @@ In order to install [[Public/Software/Airflow/index]] locally you can use the fo
 
 There is a file named `airflow.cfg` which contains configuration for your airflow instance including the full path to the DAGs folder and also SQLalchemy connection credentials.
 
+### Initialise Airflow User
+```bash
+airflow users create -u airflow -p airflow --role Admin -e test@test.com -f test -l test
+```
 ### Postgres Data Storage
 
 Use the `psycopg2-binary` package to provide [[PostgreSQL]] db support:
