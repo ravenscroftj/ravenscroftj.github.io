@@ -1,4 +1,5 @@
-Docker is a containerisation and virtualization tool that became popular in the 2010s thank
+Docker is a containerisation and virtualization tool that became popular in the 2010s as a lightweight alternative to running virtual machines.
+
 - 
 ## Network Issues
 	- Experienced a problem where docker containers are not allowed to access stuff on the `192.168.x.x` subnet.
