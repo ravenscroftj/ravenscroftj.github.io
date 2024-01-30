@@ -1,4 +1,8 @@
-- CLI program that ships with [[mysql]] server that allows you to dump databases to sql files.
+---
+created: 2024-01-29T08:13
+updated: 2024-01-30T14:01
+---
+- CLI program that ships with [[MySQL]] server that allows you to dump databases to sql files.
 - ## Dump Structure Only
 	- ```bash
 	  mysqldump \
