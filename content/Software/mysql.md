@@ -1,28 +1,28 @@
 ---
 created: 2024-01-29T08:13
-updated: 2024-01-30T14:02
+updated: 2024-01-30T14:12
 ---
 ## Minimal [[Docker]] Compose example with MySQL and [[adminer]]
+
 ```yaml
-  version: "3.0"
+version: "3.0"  
+services:
+  mysql:
+    env_file: .env
+    image: mariadb
+    environment:
+      MARIADB_ROOT_PASSWORD: example
+    volumes:
+      - ./mysql:/var/lib/mysql
+    ports:
+      - 3306:3306
   
-  services:
-	mysql:
-	  env_file: .env
-	  image: mariadb
-	  environment:
-		MARIADB_ROOT_PASSWORD: example
-	  volumes:
-		- ./mysql:/var/lib/mysql
-	  ports:
-		- 3306:3306
-  
-	adminer:
-	  env_file: .env
-	  image: adminer:latest
-	  ports:
-		- 8081:8080
-  ```
+  adminer:
+    env_file: .env
+    image: adminer:latest
+    ports:
+	  - 8081:8080
+```
 	
 ## Converting Text to Varchar
   
