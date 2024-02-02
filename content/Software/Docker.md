@@ -1,6 +1,6 @@
 ---
 created: 2024-02-01T22:44
-updated: 2024-02-02T07:26
+updated: 2024-02-02T20:09
 ---
 Docker is a containerisation and virtualization tool that became popular in the 2010s as a lightweight alternative to running [[virtual machines]].
 
