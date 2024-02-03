@@ -1,10 +1,12 @@
 ---
-title:  Dell XPS 9305
+title: Dell XPS 9305
 tags:
- - devices
+  - devices
+created: 2024-01-28T16:27
+updated: 2024-02-03T08:21
 ---
 
-My personal laptop is a Dell XPS 9305. I run [[ubuntu]] on it.
+My personal laptop is a Dell XPS 9305. I run [[Ubuntu]] on it.
 
 ## Battery Management
 
