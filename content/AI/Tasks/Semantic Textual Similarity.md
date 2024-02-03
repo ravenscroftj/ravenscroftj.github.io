@@ -1,0 +1,2 @@
+- STS is usually done on shorter documents e.g. comparing two sentences
+- [[@Self-Supervised Document Similarity Ranking via Contextualized Language Models and Hierarchical Inference]] is a recent work on STS with longer documents

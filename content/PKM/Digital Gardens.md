@@ -1,4 +1,8 @@
-Digital gardens are typically websites consisting of densely interconnected notes similar to [[Second Brain]] and [[zettelkasten]]. A digital garden is normally public-facing.
+---
+created: 2024-01-28T21:28
+updated: 2024-02-03T22:05
+---
+Digital gardens are typically websites consisting of densely interconnected notes similar to [[Second Brain]] and [[zettelkasten]]. A digital garden is normally public-facing and part of a [[Learning in Public]] strategy. Therefore, many of the articles are unfinished works.
 
 ## cool digital gardens
 
