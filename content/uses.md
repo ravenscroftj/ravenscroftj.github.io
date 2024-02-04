@@ -1,6 +1,6 @@
 ---
 created: 2024-01-28T21:28
-updated: 2024-02-04T06:45
+updated: 2024-02-04T10:05
 ---
 ## Hardware
 

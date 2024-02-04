@@ -1,6 +1,6 @@
 ---
 created: 2024-02-03T21:16
-updated: 2024-02-04T07:12
+updated: 2024-02-04T10:05
 ---
 > So much AI turns out to be low-waged people in a call center in the Global South pretending to be robots that Indian techies have a joke about it: “AI stands for ‘absent Indian’” - [Cory Doctorow](https://pluralistic.net/2024/01/31/neural-interface-beta-tester/)
 

@@ -1,7 +1,7 @@
 ---
 id: 9y2fi37n8fvcx58wgryb6dl
 title: Second Brain
-updated: 2024-02-04T06:45
+updated: 2024-02-04T10:05
 created: 1674304480744
 modified: 
 ---

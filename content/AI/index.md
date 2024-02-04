@@ -4,7 +4,7 @@ aliases:
   - Artificial Intelligence
   - AI
 created: 2024-01-28T21:28
-updated: 2024-02-04T06:45
+updated: 2024-02-04T10:05
 ---
 
 Artificial Intelligence or AI covers technologies that aim to emulate intelligent activities carried out by humans e.g. playing games, understanding speech, seeing and understanding images.

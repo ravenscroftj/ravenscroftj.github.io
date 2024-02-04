@@ -1,7 +1,7 @@
 ---
 title: James' Garden
 created: 2024-01-28T14:11:00
-updated: 2024-02-04T06:46
+updated: 2024-02-04T10:05
 ---
 Welcome to my website and [[Digital Gardens|digital garden]]. This is where I publish various bits and bobs of interest that I am learning and writing about. 
 
