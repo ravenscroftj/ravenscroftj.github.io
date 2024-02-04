@@ -1,6 +1,6 @@
 ---
 created: 2024-02-04T10:45
-updated: 2024-02-04T11:23
+updated: 2024-02-04T11:51
 ---
 Flask is a lightweight and robust [[python]] web framework with a minimal approach (as opposed to the batteries-included approach taken by [[django]]).
 
@@ -15,4 +15,8 @@ The template includes:
 ### Contribution Grid
 There is an example of doing this with HTML and CSS [here](https://codepen.io/ire/pen/Legmwo/)
 
-## Flask-OIDC
+## OAuth
+
+I started by looking at Flask-OIDC but actually I probably just want to use flask_oauthlib to directly auth against todoist.
+
+\
