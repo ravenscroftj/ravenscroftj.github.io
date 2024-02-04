@@ -3,7 +3,7 @@ title: FOAM
 tags:
   - software
 created: 2024-01-28T21:28
-updated: 2024-02-03T21:56
+updated: 2024-02-04T06:45
 ---
 
 Foam is a [[foss]] [[Public/PKM/index]] tool that provides rich linking of notes a bit like [[dendron]] and [[Logseq]] or closed-source solutions like Obsidian or ROAM.
