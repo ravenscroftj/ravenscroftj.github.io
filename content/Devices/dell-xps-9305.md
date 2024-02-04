@@ -3,7 +3,7 @@ title: Dell XPS 9305
 tags:
   - devices
 created: 2024-01-28T16:27
-updated: 2024-02-03T19:18
+updated: 2024-02-03T21:13
 ---
 
 My personal laptop is a Dell XPS 9305. I run [[Ubuntu]] on it.
