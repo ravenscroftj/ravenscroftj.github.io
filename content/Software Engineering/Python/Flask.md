@@ -1,6 +1,6 @@
 ---
 created: 2024-02-04T10:45
-updated: 2024-02-04T12:00
+updated: 2024-02-04T12:50
 ---
 Flask is a lightweight and robust [[python]] web framework with a minimal approach (as opposed to the batteries-included approach taken by [[django]]).
 
@@ -21,3 +21,4 @@ I started by looking at Flask-OIDC but then worked out that I actually I probabl
 
 Turns out that `flask_oauthlib` is deprecated so I should use `authlib` instead. They give examples of using this with Flask [here](https://docs.authlib.org/en/latest/client/flask.html)
 
+When using [[Todoist]] OAuth you have to send the `client_id` and `client_secret` again to the token endpoint which is not standard as far as I can tell.
