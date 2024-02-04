@@ -1,6 +1,6 @@
 ---
 created: 2024-02-04T10:45
-updated: 2024-02-04T11:51
+updated: 2024-02-04T12:00
 ---
 Flask is a lightweight and robust [[python]] web framework with a minimal approach (as opposed to the batteries-included approach taken by [[django]]).
 
@@ -17,6 +17,7 @@ There is an example of doing this with HTML and CSS [here](https://codepen.io/ir
 
 ## OAuth
 
-I started by looking at Flask-OIDC but actually I probably just want to use flask_oauthlib to directly auth against todoist.
+I started by looking at Flask-OIDC but then worked out that I actually I probably just want to use flask_oauthlib to directly auth against todoist.
 
-\
+Turns out that `flask_oauthlib` is deprecated so I should use `authlib` instead. They give examples of using this with Flask [here](https://docs.authlib.org/en/latest/client/flask.html)
+
