@@ -1,1 +1,0 @@
-- [Poetry](https://python-poetry.org) is a [[python]] project and dependency management tool.

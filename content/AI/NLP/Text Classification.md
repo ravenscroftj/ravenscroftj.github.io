@@ -1,1 +1,0 @@
-- Text classification is the task of assigning one or more discreet category labels or classes to a passage of text based on machine generated [[Representations of Text]]

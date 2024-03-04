@@ -1,1 +1,0 @@
-- [accelerate](https://huggingface.co/docs/accelerate) is a computing framework from [[huggingface]] that facilitates using multiple GPUs together for [[llms]] training and model inference.

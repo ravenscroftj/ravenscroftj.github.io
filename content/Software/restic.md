@@ -1,4 +1,0 @@
----
-type: note
-title: "restic"
----

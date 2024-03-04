@@ -1,1 +1,0 @@
-- ELMo is a context sensitive language model by [Peters et al.](Deep contextualized word representations)

@@ -1,4 +1,18 @@
-- A [[foss]] [[DataAnnotation]] and data curation platform for [[llm]] training
-- [https://argilla.io/](https://argilla.io/)
-- Similar to [[Label Studio]] or [[doccano]]
--
+---
+public: true
+date: 2024-03-01
+title: Argilla
+---
+
+*   Argilla in [[Docker]]
+
+*   By default see ms to want to use [[Software/ElasticSearch]]
+*   does not have any credentials for elasticsearch
+*   adding env var to disable security on elastic seems to work:
+
+```yaml
+environment:
+    - xpack.security.enabled=false
+```
+
+*   The default credentials are `argilla` and `1234`

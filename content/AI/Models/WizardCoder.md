@@ -1,4 +1,0 @@
-- WizardCoder is a code assist LLM
-- There is a GGML version that is compatible with the starcoder binary shipped with the GGML repo
-	- https://huggingface.co/TheBloke/WizardCoder-15B-1.0-GGML
--

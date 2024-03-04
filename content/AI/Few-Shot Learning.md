@@ -1,2 +1,0 @@
-- Few-Shot learning is a special case of [[Machine Learning]] where limited training data is available for training the model.
--
